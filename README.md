@@ -1,4 +1,4 @@
-#The BB Bot using Selenium
+# The B.B. Bot using Selenium
 
 ##### <u>Purpose</u>
 
